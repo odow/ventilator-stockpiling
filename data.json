@@ -1,0 +1,57 @@
+{
+    "regions": {
+        "HSR 1": {
+            "mean": 33.78,
+            "std": 12.14,
+            "wastage": 0.2,
+            "current_stockpile": 151
+        },
+        "HSR 2/3": {
+            "mean": 262.77,
+            "std": 44.49,
+            "wastage": 0.2,
+            "current_stockpile": 1233
+        },
+        "HSR 4/5N": {
+            "mean": 50.82,
+            "std": 13.67,
+            "wastage": 0.2,
+            "current_stockpile": 247
+        },
+        "HSR 6/5S": {
+            "mean": 158.04,
+            "std": 30.61,
+            "wastage": 0.2,
+            "current_stockpile": 742
+        },
+        "HSR 7": {
+            "mean": 98.83,
+            "std": 23.63,
+            "wastage": 0.2,
+            "current_stockpile": 247
+        },
+        "HSR 8": {
+            "mean": 88.1,
+            "std": 20.01,
+            "wastage": 0.2,
+            "current_stockpile": 458
+        },
+        "HSR 9/10": {
+            "mean": 69.02,
+            "std": 18.3,
+            "wastage": 0.2,
+            "current_stockpile": 287
+        },
+        "HSR 11": {
+            "mean": 141.44,
+            "std": 30.28,
+            "wastage": 0.2,
+            "current_stockpile": 365
+        }
+    },
+    "correlation": 0.7,
+    "central_stockpile": 428,
+    "number_scenarios": 1000,
+    "solve_for_central_stockpile": true,
+    "solve_for_regional_stockpile": true
+}
